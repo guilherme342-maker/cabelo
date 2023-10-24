@@ -1,0 +1,105 @@
+*{
+    font-family: 'Montserrat';
+}
+body {
+    background-color: #440B48;
+}
+
+.cor1 {
+    background-color: #EFC0FF;
+}
+
+.footer {
+    background-color: #440B48;
+    color: #fff;
+    padding: 2%;
+    text-align: center;
+    margin-top: -1%;
+  }
+    .logo {
+        width: 100px;
+    }
+
+    .cardinhos2{
+        margin-top: 2%;
+    }
+
+    .home1 {
+     
+        height: 15rem;
+    }
+
+    .home2 {
+      
+        height: 15rem;
+    }
+
+    .home3 {
+      
+        height: 15rem;
+    }
+
+    .home4 {
+  
+        height: 15rem;
+    }
+
+    .home5 {
+     
+        height: 15rem;
+    }
+
+    .home6 {
+        
+        height: 15rem;
+    }
+
+
+ @media (max-width: 667px) {
+    .logo {
+        width: 65px;
+    }
+
+    .espacamentotop{
+        margin-top: 25%;
+    }
+
+    .home1 {
+        margin-bottom: 2%;
+    }
+
+    .home2 {
+        margin-bottom: 2%;
+    }
+
+    .home3 {
+        margin-bottom: 2%;
+    }
+
+
+    .home4 {
+     margin-bottom: 2%;
+    }
+
+    .home5 {
+        margin-bottom: 2%;
+    }
+
+    .home6 {
+        margin-bottom: 2%;
+}
+} 
+/* cabelo cacheado */
+.cacheada{
+    width: 94%;
+    margin-top: -3%;
+    margin-left: 3%;
+}
+.kalen{
+    width: 90%;
+    height: 190px;
+}
+.brasil{
+    width: 90%;
+    margin-top: -6%;
+}
